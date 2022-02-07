@@ -6,6 +6,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   - 简介:
     - Getting Started: index.md
