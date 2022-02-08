@@ -2,7 +2,7 @@
     author: ercao (vip@ercao.cn) 
 -->
 
-# 统一身份认证系统
+# 统一身份认证
 
 ## 简介
 
@@ -21,7 +21,7 @@
 
 ## 登录界面
 
-![统一身份认证登录界面](assets/images/6db273ba7f665e661b1ef9d06258430da6aaa188307af594a5b7054060c3075b-20220207110714.png)  
+![统一身份认证登录界面](./images/6db273ba7f665e661b1ef9d06258430da6aaa188307af594a5b7054060c3075b-20220207110714.png)  
 
 > 用户名：学工号/高考考生号
 <!-- TODO(ercao)：初始密码 -->
@@ -29,35 +29,35 @@
 
 # 后台界面
 
-![后台主界面](assets/images/dab1e4c6d4add2fa869fecf51d943c71bc55a28c4f50c10fb9f34d218e213451-20220207111729.png)  
+![后台主界面](./images/dab1e4c6d4add2fa869fecf51d943c71bc55a28c4f50c10fb9f34d218e213451-20220207111729.png)  
 
 > :cowboy_hat_face:**注意登入系统后：一定要先绑定邮箱或手机号，避免忘记密码之后的麻烦。**
 
 也可以绑定其他平台账号（QQ、微信） 字体竟然是白色的我干
-![账号绑定](assets/images/6cc6f471c6308b91dde2e3b17ac4bf10c10b4b6fca7392f543e57fcb1e7d18bd-20220207112210.png)  
+![账号绑定](./images/6cc6f471c6308b91dde2e3b17ac4bf10c10b4b6fca7392f543e57fcb1e7d18bd-20220207112210.png)  
 
 为了安全考虑尽量将`单浏览器登录`与`密码变动提醒`开启
-![其他设置界面](assets/images/c7d52035fc19ac02e8f48cfaa77cc76bde09dc50040d136e24ab9f86f16fb7c6-20220207113250.png)  
+![其他设置界面](./images/c7d52035fc19ac02e8f48cfaa77cc76bde09dc50040d136e24ab9f86f16fb7c6-20220207113250.png)  
 
 当开启单浏览器登录选项后，使用另一浏览器登录会出现以下情况
 > 出现以下界面并非代表未登录，而是`成功登录但是无操作权限`
 > 点击继续会关闭其他所有会话，点击取消为登出
 
-![单浏览器登录](assets/images/00ffc94bcc3626d76f019244375d6663687dce8dd5218c07e13c45f413129b70-20220207112921.png)  
+![单浏览器登录](./images/00ffc94bcc3626d76f019244375d6663687dce8dd5218c07e13c45f413129b70-20220207112921.png)  
 
 # 忘记密码
 
 若忘记密码请点击 `登录界面`的`忘记密码`超链接
-![登录界面](assets/images/e8c5cf01a6af543291be9c90a94df7d3f890a5dccd6cbf4143dac1b6ad73ba1d-20220207113848.png)  
+![登录界面](./images/e8c5cf01a6af543291be9c90a94df7d3f890a5dccd6cbf4143dac1b6ad73ba1d-20220207113848.png)  
 
 找回方式：使用手机、邮箱找回都可
-![找回方式](assets/images/8f6fd64d8fdc6adc0aeabf80841ed5b64f5918be2b59ab0353d0a6c720eae125-20220207113950.png)  
+![找回方式](./images/8f6fd64d8fdc6adc0aeabf80841ed5b64f5918be2b59ab0353d0a6c720eae125-20220207113950.png)  
 
 确认账户：按提示填入信息即可
-![确认账户](assets/images/9c6659995c1ad181c3c002e099a74825e3645daf8ebe6d4c408c251429c508fa-20220207131752.png)  
+![确认账户](./images/9c6659995c1ad181c3c002e099a74825e3645daf8ebe6d4c408c251429c508fa-20220207131752.png)  
 
 安全认证：填入手机/邮箱接收到的验证码
-![安全认证](assets/images/e0b4ce02d5998fe6cea9131ca1e72a4e1082fc88065e332ae07bf74f2c7bfa38-20220207131909.png)  
+![安全认证](./images/e0b4ce02d5998fe6cea9131ca1e72a4e1082fc88065e332ae07bf74f2c7bfa38-20220207131909.png)  
 
 重置密码：输入重置后的密码
-![重置密码](assets/images/a885c63a9807dcf15ea3526cb0c1a5da46ad3ffe0795c9de062fe39e68871142-20220207132113.png)  
+![重置密码](./images/a885c63a9807dcf15ea3526cb0c1a5da46ad3ffe0795c9de062fe39e68871142-20220207132113.png)  
