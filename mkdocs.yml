@@ -32,8 +32,7 @@ nav:
       - 综合测评: service/ehall/zongce.md
   - 正版化:
     - 为什么要使用正版: ms/intro.md
-    - Windows 激活: ms/windows.md
-    - Office 激活: ms/office.md
+    - Windows & Office 激活: ms/ms.md
     - 福昕 PDF 编辑器: ms/foxin.md
   - 校园邮箱:
     - 什么是校园邮箱: mail/intro.md
