@@ -11,6 +11,7 @@
 ## 2.路由器初始设置
 
 ### （1）连接未配置的路由器
+
     在路由器的底部标贴上查看路由器出厂的无线信号名称。
 
 ![biaoqian](https://github.com/2419873274/router-settings-pictures/raw/main/tp-link/biaoqian.png)
@@ -61,6 +62,7 @@
 ![diannao5](https://github.com/2419873274/router-settings-pictures/raw/main/tp-link/%E7%94%B5%E8%84%915.png)
 
 ## 3.初始设置完成
+
     设置完成后，重新连接设置好后的无线名称，并输入无线密码，重新连接无线WiFi。
 
 # 二.关闭DHCP功能
