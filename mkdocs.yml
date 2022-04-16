@@ -7,6 +7,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  language: 'zh'
 
 markdown_extensions:
   - admonition
@@ -14,11 +15,11 @@ markdown_extensions:
   - pymdownx.superfences
 
 plugins:
-    - search:
-        lang:
-            - en
-            - ja
-        separator: '[\s\-\.]+'
+    - search
+
+extra:
+  search:
+    language: 'jp'
 
 
 nav:
