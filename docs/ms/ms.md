@@ -8,7 +8,7 @@
 
 ## 准备工作
 
-   一个安装了Windows或office等Microsoft产品的电脑、您的今日校园账号密码。
+   一个安装了Windows或Office等Microsoft产品的电脑、您的今日校园账号密码。
 
 ## 具体步骤
 
