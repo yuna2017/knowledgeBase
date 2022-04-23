@@ -2,7 +2,13 @@ module.exports = {
     title: 'YUNA KnowledgeBase',
     base: "/knowledgeBase/",
     description: '',
-    themeConfig: {
+    head: [
+      [
+          'link', // 设置 favicon.ico，注意图片放在 public 文件夹下
+          { rel: 'icon', href: 'logo.png' }
+      ]
+  ],
+  themeConfig: {
         displayAllHeaders: true, // 默认值：false
         //sidebar: 'auto',
         nav: [
