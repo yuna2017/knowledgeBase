@@ -1,5 +1,6 @@
 module.exports = {
     title: 'YUNA KnowledgeBase',
+    base: "/knowledgeBase/",
     description: '',
     themeConfig: {
         displayAllHeaders: true, // 默认值：false
