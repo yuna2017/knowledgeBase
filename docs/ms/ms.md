@@ -6,7 +6,7 @@
     * 本工具支持激活office2016及以后版本的office副本、Windows7及以后版本的Windows副本。
     * 本页面并不提供Microsoft产品的安装方式。
 
-## 做准备
+## 准备工作
 
    一个安装了Windows或office等Microsoft产品的电脑、您的今日校园账号密码。
 

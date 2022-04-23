@@ -1,7 +1,3 @@
-<!-- 
-    author: ercao (vip@ercao.cn) 
--->
-
 # 正方教务系统
 
 ## 1. 简介
