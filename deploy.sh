@@ -5,12 +5,12 @@ npm run build # 生成静态文件
 cd docs/.vuepress/dist # 进入生成的文件夹
 
 # deploy to github
-if [ -z "$ACCESS_TOKEN" ]; then
+if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
   githubUrl=git@github.com:yuna2017/knowledgeBase.git
 else
   msg='来自Github Action的自动部署'
-  githubUrl=https://geekercai:${ACCESS_TOKEN}@github.com/yuna2017/knowledgeBase.git
+  githubUrl=https://geekercai:${GITHUB_TOKEN}@github.com/yuna2017/knowledgeBase.git
   git config --global user.name "geekercai"
   git config --global user.email "cairunpeimail@gmail.com"
 fi
