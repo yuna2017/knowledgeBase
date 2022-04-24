@@ -1,8 +1,6 @@
-<!-- 
-    author: ercao (vip@ercao.cn) 
--->
+# 一网通办简介
 
-# 简介
+// 待修改
 
 [[新版本移动端](https://ehall.ysu.edu.cn/ywtb-mobile/index.html)] [[新版本PC端](https://ehall.ysu.edu.cn/ywtb-portal/ysu/index.html)] [[老版本](https://ehall.ysu.edu.cn/new/index.html)]
 
@@ -12,8 +10,6 @@
 
 推荐 通过首页的搜索框搜索所需要的功能
 
-> 该系统目前仍在不稳定阶段，请各位小伙伴使用前请三思
->
 
 ## FAQ
 
@@ -24,6 +20,3 @@
     该系统电脑端对于手机的兼容性不太友好，而移动端功能又貌似差了点意思
     当然手机也是有解决办法的，使用(firefox/chrome手机版)、开启桌面显示、打开 [一网通综合服务大厅系统电脑端](https://ehall.ysu.edu.cn/ywtb-portal/ysu/index.html#/home)即可正常使用
 
-2. 为什么部分功能没有权限？
-
-    首先请检查是否登录？如果登录后仍无权限，此为该系统的UX问题，忽略就好

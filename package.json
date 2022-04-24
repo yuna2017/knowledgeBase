@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "YUNA knowledgeBase - VuePress build",
   "main": "index.js",
-  "base": "/knowledgeBase/",
   "repository": "https://github.com/yuna2017/knowledgeBase.git",
   "author": "yuna",
   "license": "MIT",
