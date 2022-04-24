@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroText: YUNA KnowledgeBase
-tagline: 燕大师生在线生活指南
+tagline: 面向问题的燕大师生在线生活指南
 actionText: 快速上手 →
 actionLink: getting-started.html
 features:

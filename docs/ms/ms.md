@@ -1,10 +1,12 @@
 # Windows & Office 激活
 
-!!! Note
+::: tip
 
     * 本页面提供的内容仅支持在本校正版化官网(ms.ysu.edu.cn)下载的Microsoft产品的激活，其他来源的Microsoft产品可能并不适用于本页面提供的激活方式。
     * 本工具支持激活office2016及以后版本的office副本、Windows7及以后版本的Windows副本。
     * 本页面并不提供Microsoft产品的安装方式。
+
+:::
 
 ## 准备工作
 
