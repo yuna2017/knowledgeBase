@@ -12,12 +12,12 @@ module.exports = {
         displayAllHeaders: true, // 默认值：false
         //sidebar: 'auto',
         nav: [
-            { text: 'Home', link: '/' },
+            { text: '问题速查', link: '/intro/' },
             { text: '校园网', link: '/campusNet/' },
             { text: '在线服务', link: '/service/' },
             { text: '正版化', link: '/ms/' },
             { text: '校园邮箱', link: '/mail/' },
-            { text: 'External', link: 'https://ysu.edu.cn/' },
+            { text: '关于我们', link: '/about/' },
           ],
         
           sidebar: {

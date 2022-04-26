@@ -3,8 +3,8 @@ home: true
 heroImage: /logo.png
 heroText: YUNA KnowledgeBase
 tagline: 面向问题的燕大师生在线生活指南
-actionText: 快速上手 →
-actionLink: getting-started.html
+actionText: 问题速查 →
+actionLink: /intro/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
