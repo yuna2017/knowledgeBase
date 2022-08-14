@@ -7,7 +7,7 @@
 
 ## 上网花钱吗？
 
-参见 [校园网简介](/campusNet/README.html)
+参见 [校园网简介](/campusNet/)
 
 ### 怎么联网？     
 
