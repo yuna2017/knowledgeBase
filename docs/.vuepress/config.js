@@ -1,6 +1,6 @@
 module.exports = {
     title: 'YUNA KnowledgeBase',
-    base: "/knowledgeBase/",
+    base: "/",
     description: '',
     head: [
       [
