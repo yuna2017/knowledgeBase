@@ -5,4 +5,4 @@
 
 打开 [VPN 系统主页](https://vpn.ysu.edu.cn/)，并通过一网通办登录；完成登录后即可选择需要使用的服务。
 
-![VPN](./images/vpn.png)
+![VPN](./img/vpn.png)

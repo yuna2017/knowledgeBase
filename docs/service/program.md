@@ -15,10 +15,10 @@
 
 进入后，点击各个类型即可查看到相关信息。
 
-![按类型查询](./images/program_type.png)
+![按类型查询](./img/program_type.png)
 
 ### 按学年查询
 
 单击页面左上角的 `查看指导计划` ，即可得到按学年分配的课程详情。
 
-![按学年查询](./images/program_year.png)
+![按学年查询](./img/program_year.png)

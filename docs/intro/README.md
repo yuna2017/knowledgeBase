@@ -7,11 +7,11 @@
 
 ## 上网花钱吗？
 
-参见 [校园网简介](/campusNet/)
+参见 [校园网简介](../network/README.md)
 
 ### 怎么联网？     
 
-[连接和认证方式](/campusNet/connect.html)
+[连接和认证方式](../network/connect.md)
 
 ### 校园卡赠送的宽带咋用？跟流量比有啥优点？
 
@@ -23,7 +23,7 @@
 
 ### 宿舍的（水星、华为、小米…）路由器具体怎么配置？ 
 
-[路由器配置](/campusNet/router.html)
+[路由器配置](../network/router.md)
 
 ### 认证界面无法登陆？
 
@@ -31,7 +31,7 @@
 
 ### 网速太慢！
 
-首先请在宿舍使用较为优质的路由器，具体选购方式在[路由器配置](/campusNet/router.html)有介绍。
+首先请在宿舍使用较为优质的路由器，具体选购方式在[路由器配置](../network/router.md)有介绍。
 
 其他问题请参阅 **// TODO**
 
@@ -39,7 +39,7 @@
 
 ### 各种密码我搞不清…
 
-来看看 [统一身份认证](/service/auth.html) 吧
+来看看 [统一身份认证](../service/auth.md) 吧
 
 ### 啥叫「一网通办」？
 
@@ -47,15 +47,15 @@
 
 ### 校外怎么上知网？
 
-[VPN](/service/vpn.html)
+[VPN](../service/vpn.md)
 
 ### 具体分数（不是等级！）在哪查呢？
 
-[成绩查询](/service/grade.html)
+[成绩查询](../service/grade.md)
 
 ### 下学期开什么课？学分多少？
 
-[培养方案查询](/service/program.html)
+[培养方案查询](../service/program.md)
 
 ### 我的选修课、重修课课表在哪看？npy的班级啥时候没课？
 
@@ -69,21 +69,21 @@
 
 ### Windows 提示没激活，烦死了
 
-学校提供主流版本的 Windows 免费激活方案，参见[Windows 激活](/ms/ms.html)。
+学校提供主流版本的 Windows 免费激活方案，参见[Windows 激活](../ms/ms.md)。
 
 ### 合并、编辑 PDF 的软件好贵啊…
 
-不如白嫖学校的[Foxin 高级PDF编辑器](/ms/foxin.html)
+不如白嫖学校的[Foxin 高级PDF编辑器](../ms/foxin.md)
 
 ## 校园邮箱是啥？
 
 ### 我期刊投稿、校园优惠认证需要校园邮箱
 
-[校园邮箱注册](/mail/signup.html)
+[校园邮箱注册](../mail/signup.md)
 
 ### 除了这些，校园邮箱还有啥用途？
 
-[校园邮箱可以白嫖的资源](/mail/res.html)
+[校园邮箱可以白嫖的资源](../mail/res.md)
 
 ### 但是我好像登录不上去啊…
 
