@@ -13,7 +13,7 @@ module.exports = {
         //sidebar: 'auto',
         nav: [
             { text: '问题速查', link: '/intro/' },
-            { text: '校园网', link: '/campusNet/' },
+            { text: '校园网', link: '/network/' },
             { text: '在线服务', link: '/service/' },
             { text: '正版化', link: '/ms/' },
             { text: '校园邮箱', link: '/mail/' },
@@ -21,7 +21,7 @@ module.exports = {
           ],
         
           sidebar: {
-            '/campusNet/': [
+            '/network/': [
               '',     /* /foo/ */
               'faq',  /* /foo/one.html */
               'connect' ,  /* /foo/two.html */

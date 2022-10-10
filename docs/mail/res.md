@@ -5,7 +5,7 @@
 申请流程：
 进入官网，使用申请到的教育邮箱注册帐号，就好了。
 
-![office 365官网](/mail/365%20申请1.png)
+![office 365官网](./img/365_reg_1.png)
 
 > 这东西好像很鸡肋，只能浏览器使用？
 
@@ -15,8 +15,8 @@
 
 虽然Github 不使用校园邮箱也是可以用的，但是有了校园邮箱就能使用Pro版($4/month)，能白嫖，何乐而不为？[Free 与 Pro比较](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-free-for-user-accounts)
 
-![Github免费版](/mail/u7S7Io3pub.png)
-![GithubPro版](/mail/git%20pro.png)
+![Github免费版](./img/github_free.png)
+![GithubPro版](./img/github_pro.png)
 
 申请流程：
 
@@ -25,8 +25,8 @@
 
     > Github账户要先绑定校园邮箱帐号。这里要选择用教育邮箱申请。
 
-    ![Github](/mail/Github%20教育邮箱申请.png)
-    ![Github申请表单](/mail/Github%20学生2.png)
+    ![Github](./img/github_reg_stu_mail_1.png)
+    ![Github申请表单](./img/github_reg_stu_mail_2.png)
 
 2. ~~使用教育邮箱，发送你的学生凭证(当然也可以不发，无非就是申请的要慢一些罢了)~~
 
@@ -43,7 +43,7 @@ jetbrains家的工具可以说是非常的好用，而且**特别的人性化，
 <!--  TODO: jetbrains 申请流程 -->
 申请流程：
 
-![Jetbrains学生](/mail/jetbrains%20全家桶.png)
+![Jetbrains学生](./img/jetbrains_view.png)
 
 ## 其他工具
 
@@ -54,5 +54,5 @@ jetbrains家的工具可以说是非常的好用，而且**特别的人性化，
   这个网站中的是能免费1-2年，几个月，也有免费到毕业
   而且大部分都可以使用 GitHub 直接学生认证
 
-    ![Github Student Develop Pack 1](/mail/Github%20student%20pack%201.png)
-    ![Github Student Develop Pack 2](/mail/Github%20student%20pack%202.png)
+    ![Github Student Develop Pack 1](./img/github_student_pack_1.png)
+    ![Github Student Develop Pack 2](./img/github_student_pack_2.png)

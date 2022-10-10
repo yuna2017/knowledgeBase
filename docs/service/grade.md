@@ -10,13 +10,13 @@
 
 登录[一网通办](https://ehall.ysu.edu.cn/)，搜索并进入“成绩查询”即可，选择“学生个人组”进入。
 
-![查找应用](./images/ehall_grade.png)
+![查找应用](./img/ehall_grade.png)
 
 ## 使用方式
 
 ### 等级成绩查询
 
-![成绩查询](./images/d191ccfc396600dc357a87cbbc677a2333a2fd843920b0753c1d54253b55ab53-20220207153345.png)
+![成绩查询](./img/grade_query.png)
 
 是的，没错：`红色`代表成绩不及格:broken_heart:。
 
