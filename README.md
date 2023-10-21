@@ -7,6 +7,6 @@
 本项目使用 MIT License
 
 ```text
-MIT License
+GPL License
 Copyright (c) 2017-2022 Yanshan University Student Net Information Association
 ```
