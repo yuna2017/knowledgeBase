@@ -1,5 +1,7 @@
 ---
 layout: home
+title: YUNA KnowledgeBase
+titleTemplate: ":title"
 hero:
   name: YUNA KnowledgeBase
   text: ""
