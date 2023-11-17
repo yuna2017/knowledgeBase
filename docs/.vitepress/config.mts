@@ -1,5 +1,24 @@
 import { defineConfig } from "vitepress";
 
+import fs from "fs";
+import path from "path";
+
+function getList(name: string) {
+  let basePath = path.resolve(__dirname, "../" + name + "/");
+  let files = fs.readdirSync(basePath);
+  let list: { text: string; link: string }[] = [];
+  files.forEach((i) => {
+    if (!i.endsWith(".md")) return;
+    if (i === "index.md") return;
+    let file = fs.readFileSync(path.join(basePath, i), { encoding: "utf-8" });
+    list.push({
+      text: (/^\# (.*)\n/.exec(file) || [, i.slice(0, -3)])[1] as string,
+      link: `/${name}/${i.slice(0, -3)}`,
+    });
+  });
+  return list;
+}
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-Hans-CN",
@@ -37,35 +56,32 @@ export default defineConfig({
       { text: "关于我们", link: "/about/" },
     ],
 
-    sidebar: {
-      // "/network/": [
-      //   "" /* /foo/ */,
-      //   "faq" /* /foo/one.html */,
-      //   "connect" /* /foo/two.html */,
-      //   "advanced",
-      // ],
-      // "/ms/": [
-      //   "" /* /bar/ */,
-      //   "foxin" /* /bar/three.html */,
-      //   "ms" /* /bar/four.html */,
-      // ],
-      // "/mail/": ["", "signup", "res"],
-      // "/service/": [
-      //   "",
-      //   "intro",
-      //   "auth",
-      //   "grade",
-      //   "program",
-      //   "schedule",
-      //   "zongce",
-      //   "vpn",
-      //   "jwc",
-      // ],
-      // // fallback
-      // "/": [
-      //   /* /about.html */
-      // ],
-    },
+    sidebar: [
+      {
+        text: "校园网",
+        items: getList("network"),
+        collapsed: false,
+        link: "/network/",
+      },
+      {
+        text: "在线服务",
+        items: getList("service"),
+        collapsed: false,
+        link: "/service/",
+      },
+      {
+        text: "正版化",
+        items: getList("ms"),
+        collapsed: false,
+        link: "/ms/",
+      },
+      {
+        text: "校园邮箱",
+        items: getList("mail"),
+        collapsed: false,
+        link: "/mail/",
+      },
+    ],
 
     // socialLinks: [
     //   { icon: "github", link: "https://github.com/vuejs/vitepress" },
