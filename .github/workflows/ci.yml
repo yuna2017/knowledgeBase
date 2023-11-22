@@ -1,7 +1,7 @@
 name: CI
 
 # 在main分支发生push事件时触发，已由master改为main。
-on: 
+on:
   push:
     branches:
       - main
@@ -25,4 +25,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: docs/.vuepress/dist # The folder the action should deploy.
-          BUILD_SCRIPT: npm install && npm run build && cd docs/.vuepress/dist && cd -
+          BUILD_SCRIPT: npm install && npm run build && cd docs/.vitepress/dist && cd -
